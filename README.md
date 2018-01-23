@@ -43,3 +43,7 @@ One person should type in the processes.
                     |If you are not in a good mood|
                      
  |                   |If you are in a good mood
+
+|Question: How do I get to the bathroom?             |                                        |                                          |
+|Person thanks you  |  |                                        |
+|                   |                                        |                                          |
